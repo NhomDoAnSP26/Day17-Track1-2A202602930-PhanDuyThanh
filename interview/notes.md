@@ -5,7 +5,7 @@ _Case C — AI Support Radar · Problem interview, không phải concept intervi
 | Mục | Nội dung |
 | --- | --- |
 | Interviewer | `Phan Duy Thành` — `2A202602930` |
-| Mã người tham gia | Chưa xác nhận mã đầy đủ; người tham gia nói mã số sinh viên có số cuối `02449` |
+| Mã người tham gia | 2A202602449 |
 | Đúng tiêu chí tuyển | Có / Không |
 | Ngày, giờ phỏng vấn | `....................` |
 | Thời lượng | 15 phút |
@@ -70,5 +70,3 @@ Có thể người học gặp khó khăn khi nối các phần kiến thức v�
 - Câu hỏi nào mở được câu chuyện cụ thể: Hỏi về lần gần nhất người tham gia kết thúc buổi học mà chưa nắm chắc bài; câu trả lời xác định được mốc “chiều hôm qua”.
 - Chỗ tôi đã dẫn dắt / hỏi quá chung / bỏ lỡ tín hiệu: Câu hỏi ban đầu gộp cảm giác chưa nắm bài với bài tập bị nghẽn. Khi người tham gia nói tình trạng rời rạc, chưa hỏi tiếp một việc cụ thể họ đã làm, lúc nào nhận ra vấn đề, hoặc điều gì xảy ra tiếp theo. Câu hỏi gợi ý “thuật ngữ mới hay logic bài toán mới” có thể giới hạn câu trả lời.
 - Điều chỉnh cho lần phỏng vấn thật: Bám vào một khoảnh khắc cụ thể; hỏi người tham gia đang làm gì, nội dung/slide nào, họ đã thử cách nào để vượt qua, có hỏi ai không và chuyện gì xảy ra sau đó. Hỏi mở trước, tránh đưa sẵn các khả năng làm ví dụ.
-
-> Lưu ý: lời khen hoặc "mình sẽ dùng" **không** được tính là bằng chứng về pain.
