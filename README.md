@@ -19,12 +19,12 @@
 
 **Thành viên nhóm:**
 
-| #   | MHV           | Họ và tên             | Vai trò trong lab      |
-| --- | ------------- | --------------------- | ---------------------- |
-| 1   | `2A202602636` | `Bùi Hải Nam`         | Điều phối Chặng 1–2    |
-| 2   | `2A202602675` | `Chử Trần Phương Nam` | Ghi chép & hợp nhất    |
-| 3   | `2A202602585` | `Phùng Gia Khánh`     | Phản biện guide        |
-| 4   | `2A202602930` | `Phan Duy Thành`      | Bản ghi & nộp bài      |
+| #   | MHV           | Họ và tên             | Vai trò trong lab   |
+| --- | ------------- | --------------------- | ------------------- |
+| 1   | `2A202602636` | `Bùi Hải Nam`         | Điều phối Chặng 1–2 |
+| 2   | `2A202602675` | `Chử Trần Phương Nam` | Ghi chép & hợp nhất |
+| 3   | `2A202602585` | `Phùng Gia Khánh`     | Phản biện guide     |
+| 4   | `2A202602930` | `Phan Duy Thành`      | Bản ghi & nộp bài   |
 
 _Vai trò là đề xuất phân công, nhóm đổi được. Ý nghĩa:_
 
@@ -33,7 +33,7 @@ _Vai trò là đề xuất phân công, nhóm đổi được. Ý nghĩa:_
 - **Phản biện guide:** giữ vai hoài nghi — soát xem có câu nào làm lộ solution và chịu trách nhiệm câu hỏi "đáng sợ" ở Big 3 #1.
 - **Bản ghi & nộp bài:** nhắc xin consent trước khi ghi, thu bản ghi của cả nhóm, chạy checklist §6 trước khi nộp.
 
-**Người mình đã phỏng vấn:** `....................` (ngoài nhóm) · **Ngày phỏng vấn:** `............`
+**Người mình đã phỏng vấn:** `Lê Thanh Tình` (ngoài nhóm) · **Ngày phỏng vấn:** `10/03/2026, 9:00 AM`
 
 ---
 
@@ -89,11 +89,11 @@ Có. "Support Queue cho giảng viên" chỉ là **một** cách triển khai. C
 Solution → Người hỗ trợ biết ai đang kẹt ở đâu → Người hỗ trợ can thiệp sớm → Learner gỡ được chỗ vướng
 ```
 
-| #   | Thay đổi được kỳ vọng                                                                         | Là output của team hay outcome team chỉ có thể ảnh hưởng? |
-| --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 1   | Người hỗ trợ (coach/instructor) **nhìn thấy** được ai đang kẹt và kẹt ở phần nội dung nào       | Output của team — team làm ra được thứ này                 |
-| 2   | Người hỗ trợ **đổi hành vi**: chủ động liên hệ/điều chỉnh trước khi learner tự bỏ qua          | Hành vi của người khác — team chỉ có thể ảnh hưởng        |
-| 3   | Learner **chấp nhận** hỗ trợ và gỡ được chỗ vướng, không bỏ qua phần nội dung đó               | Hành vi của learner — team chỉ có thể ảnh hưởng           |
+| #   | Thay đổi được kỳ vọng                                                                     | Là output của team hay outcome team chỉ có thể ảnh hưởng? |
+| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1   | Người hỗ trợ (coach/instructor) **nhìn thấy** được ai đang kẹt và kẹt ở phần nội dung nào | Output của team — team làm ra được thứ này                |
+| 2   | Người hỗ trợ **đổi hành vi**: chủ động liên hệ/điều chỉnh trước khi learner tự bỏ qua     | Hành vi của người khác — team chỉ có thể ảnh hưởng        |
+| 3   | Learner **chấp nhận** hỗ trợ và gỡ được chỗ vướng, không bỏ qua phần nội dung đó          | Hành vi của learner — team chỉ có thể ảnh hưởng           |
 
 **Outcome kỳ vọng:** giảm lỗ hổng kiến thức tích lũy và tăng mức hoàn thành/gắn kết với khóa học.
 
@@ -103,12 +103,12 @@ Không. Solution chỉ tạo ra **visibility**. Nếu người hỗ trợ không
 
 ### 2.3. Actor — các nhóm người liên quan
 
-| Actor | Họ đang làm gì? | Pain hoặc hậu quả có thể có | Họ hưởng lợi thế nào? |
-| --- | --- | --- | --- |
-| **Learner** (người trực tiếp tạo ra tín hiệu học tập) | Tự học slide/bài một mình, làm quiz, ghi chú; khi không hiểu thì tự xoay hoặc bỏ qua để học tiếp | Bị mắc nhưng không ai biết; tự xử tốn thời gian; bỏ qua phần khó → nợ kiến thức tích lũy, mất đà học | Được hỗ trợ đúng chỗ, đúng lúc, ngay trong lúc còn đang học |
-| **Coach / Mentor** | Đồng hành learner theo nhóm hoặc 1-1; chỉ nhận được thông tin khi learner chủ động lên tiếng | Chỉ biết learner kẹt khi được hỏi; hỗ trợ muộn và lệch chỗ; thời gian bị dồn vào người lên tiếng to nhất chứ không phải người cần nhất | Biết được nên dành thời gian cho ai, ở nội dung nào |
-| **Instructor / TA** (người nhận Support Queue) | Dạy, soạn nội dung, xử lý câu hỏi của lớp; đánh giá mức hiểu bài chủ yếu qua bài kiểm tra | Không có cách thấy được ai đang tụt giữa các buổi; chỉ phát hiện khi đã muộn (điểm thấp/learner biến mất) | Can thiệp sớm, phân bổ thời gian hỗ trợ đúng người, chỉnh được cả nội dung bài giảng |
-| **Bạn học / peer** (nguồn hỗ trợ nhanh nhất trong thực tế) | Được hỏi trực tiếp qua chat/nhóm lớp khi learner không hiểu | Bị hỏi những câu lặp lại; trả lời sai hoặc qua loa | Nắm nội dung tốt hơn khi phải giải thích lại |
+| Actor                                                      | Họ đang làm gì?                                                                                  | Pain hoặc hậu quả có thể có                                                                                                            | Họ hưởng lợi thế nào?                                                                |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Learner** (người trực tiếp tạo ra tín hiệu học tập)      | Tự học slide/bài một mình, làm quiz, ghi chú; khi không hiểu thì tự xoay hoặc bỏ qua để học tiếp | Bị mắc nhưng không ai biết; tự xử tốn thời gian; bỏ qua phần khó → nợ kiến thức tích lũy, mất đà học                                   | Được hỗ trợ đúng chỗ, đúng lúc, ngay trong lúc còn đang học                          |
+| **Coach / Mentor**                                         | Đồng hành learner theo nhóm hoặc 1-1; chỉ nhận được thông tin khi learner chủ động lên tiếng     | Chỉ biết learner kẹt khi được hỏi; hỗ trợ muộn và lệch chỗ; thời gian bị dồn vào người lên tiếng to nhất chứ không phải người cần nhất | Biết được nên dành thời gian cho ai, ở nội dung nào                                  |
+| **Instructor / TA** (người nhận Support Queue)             | Dạy, soạn nội dung, xử lý câu hỏi của lớp; đánh giá mức hiểu bài chủ yếu qua bài kiểm tra        | Không có cách thấy được ai đang tụt giữa các buổi; chỉ phát hiện khi đã muộn (điểm thấp/learner biến mất)                              | Can thiệp sớm, phân bổ thời gian hỗ trợ đúng người, chỉnh được cả nội dung bài giảng |
+| **Bạn học / peer** (nguồn hỗ trợ nhanh nhất trong thực tế) | Được hỏi trực tiếp qua chat/nhóm lớp khi learner không hiểu                                      | Bị hỏi những câu lặp lại; trả lời sai hoặc qua loa                                                                                     | Nắm nội dung tốt hơn khi phải giải thích lại                                         |
 
 **Actor nhóm chọn để điều tra trước:** **Learner** (người đang tự học trên VLearn)
 
@@ -159,14 +159,14 @@ Vì vậy hai giả thuyết **không loại trừ nhau**. Phỏng vấn phải 
 
 ### 2.6. Evidence Map
 
-| Cần kiểm tra | Evidence làm nhóm tin hơn | Evidence làm nhóm nghi ngờ hoặc bác bỏ |
-| --- | --- | --- |
-| Situation có thật | Learner kể được **một lần cụ thể trong 7 ngày gần đây**: học bài/slide nào, tối nào, dừng ở đoạn nào | Không nhớ được lần nào; chỉ nói được "thường thì mình hay bị" mà không có chi tiết nào |
-| Pain có ý nghĩa | Việc mắc kéo dài nhiều phút → nhiều giờ; learner nói được cảm giác lúc đó ("bực", "mất đà", "hoang mang") và nó ảnh hưởng tới việc nộp bài/điểm | Kể ra nhưng xử lý trong vài phút, thấy bình thường, không nhớ ra hậu quả nào |
-| Workaround tồn tại | Có chuỗi hành động cụ thể (tua lại mấy lần, search từ khoá gì, hỏi ai, copy vào AI Chat) và **lặp lại nhiều lần** | Không có workaround nào — vì không cần phải xử lý |
-| Consequence tồn tại | Bỏ qua phần đó và học tiếp; làm sai quiz; phải học lại từ đầu; trễ deadline; mất động lực vài ngày | Không có hậu quả quan sát được nào; mọi thứ vẫn ổn |
-| Pattern có lặp | Chuyện này xảy ra hằng tuần; learner còn kể được lần trước đó nữa | Chỉ là sự kiện duy nhất, do hoàn cảnh đặc biệt (mất mạng, thiếu slide) |
-| **Learner có muốn người khác biết mình đang kẹt không** _(phân biệt A vs B)_ | Có lần learner **muốn được hỏi thăm nhưng không biết hỏi ai**; hoặc kể chuyện được mentor chủ động hỏi trước và thấy tích cực | Learner nói rõ không muốn bị theo dõi/chú ý; hoặc mọi lần kẹt đều là do họ **chủ động chọn** không hỏi dù kênh hỗ trợ sẵn có |
+| Cần kiểm tra                                                                 | Evidence làm nhóm tin hơn                                                                                                                       | Evidence làm nhóm nghi ngờ hoặc bác bỏ                                                                                       |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Situation có thật                                                            | Learner kể được **một lần cụ thể trong 7 ngày gần đây**: học bài/slide nào, tối nào, dừng ở đoạn nào                                            | Không nhớ được lần nào; chỉ nói được "thường thì mình hay bị" mà không có chi tiết nào                                       |
+| Pain có ý nghĩa                                                              | Việc mắc kéo dài nhiều phút → nhiều giờ; learner nói được cảm giác lúc đó ("bực", "mất đà", "hoang mang") và nó ảnh hưởng tới việc nộp bài/điểm | Kể ra nhưng xử lý trong vài phút, thấy bình thường, không nhớ ra hậu quả nào                                                 |
+| Workaround tồn tại                                                           | Có chuỗi hành động cụ thể (tua lại mấy lần, search từ khoá gì, hỏi ai, copy vào AI Chat) và **lặp lại nhiều lần**                               | Không có workaround nào — vì không cần phải xử lý                                                                            |
+| Consequence tồn tại                                                          | Bỏ qua phần đó và học tiếp; làm sai quiz; phải học lại từ đầu; trễ deadline; mất động lực vài ngày                                              | Không có hậu quả quan sát được nào; mọi thứ vẫn ổn                                                                           |
+| Pattern có lặp                                                               | Chuyện này xảy ra hằng tuần; learner còn kể được lần trước đó nữa                                                                               | Chỉ là sự kiện duy nhất, do hoàn cảnh đặc biệt (mất mạng, thiếu slide)                                                       |
+| **Learner có muốn người khác biết mình đang kẹt không** _(phân biệt A vs B)_ | Có lần learner **muốn được hỏi thăm nhưng không biết hỏi ai**; hoặc kể chuyện được mentor chủ động hỏi trước và thấy tích cực                   | Learner nói rõ không muốn bị theo dõi/chú ý; hoặc mọi lần kẹt đều là do họ **chủ động chọn** không hỏi dù kênh hỗ trợ sẵn có |
 
 ### 2.7. Chốt Problem Hypothesis và park solution
 
@@ -200,14 +200,14 @@ lũy và đà học giảm dần.
 
 **Solution Parking Lot** _(≥ 5 hướng, trong đó ≥ 1 hướng không sử dụng AI):_
 
-| #   | Hướng giải quyết có thể có | AI / Không sử dụng AI |
-| --- | --- | --- |
-| 1   | **FAQ theo slide** do TA tổng hợp từ câu hỏi thật của các khóa trước, gắn ngay dưới slide | Không sử dụng AI |
-| 2   | **Checklist tự kiểm tra cuối bài** ("bạn có giải thích được khái niệm X bằng lời của mình không?") kèm đáp án nền ngắn | Không sử dụng AI |
-| 3   | **Peer pod hằng tuần**: 4–5 learner học cùng, có điều phối viên và một khung giờ cố định để hỏi nhau | Không sử dụng AI |
-| 4   | **Mentor chủ động nhắn 1 câu hỏi mở** cho từng learner sau mỗi buổi ("chỗ nào hôm nay khó nhất?") — làm thủ công | Không sử dụng AI |
-| 5   | **Digest theo slide, không theo người**: thống kê tín hiệu đơn giản (slide bị xem lại nhiều nhất, tỉ lệ đổi đáp án) gửi mentor — cảnh báo nội dung khó, không gắn cờ học viên | AI |
-| 6   | **Support Queue đúng như directive**: AI suy đoán từng learner đang kẹt ở đâu và xếp mức ưu tiên cho giảng viên | AI |
+| #   | Hướng giải quyết có thể có                                                                                                                                                    | AI / Không sử dụng AI |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 1   | **FAQ theo slide** do TA tổng hợp từ câu hỏi thật của các khóa trước, gắn ngay dưới slide                                                                                     | Không sử dụng AI      |
+| 2   | **Checklist tự kiểm tra cuối bài** ("bạn có giải thích được khái niệm X bằng lời của mình không?") kèm đáp án nền ngắn                                                        | Không sử dụng AI      |
+| 3   | **Peer pod hằng tuần**: 4–5 learner học cùng, có điều phối viên và một khung giờ cố định để hỏi nhau                                                                          | Không sử dụng AI      |
+| 4   | **Mentor chủ động nhắn 1 câu hỏi mở** cho từng learner sau mỗi buổi ("chỗ nào hôm nay khó nhất?") — làm thủ công                                                              | Không sử dụng AI      |
+| 5   | **Digest theo slide, không theo người**: thống kê tín hiệu đơn giản (slide bị xem lại nhiều nhất, tỉ lệ đổi đáp án) gửi mentor — cảnh báo nội dung khó, không gắn cờ học viên | AI                    |
+| 6   | **Support Queue đúng như directive**: AI suy đoán từng learner đang kẹt ở đâu và xếp mức ưu tiên cho giảng viên                                                               | AI                    |
 
 > **CHECKPOINT 1:** qua checkpoint khi lần theo được đủ chuỗi Solution → Change → Actor → Situation & Job → Pain → Evidence; có hai cách giải thích cạnh tranh; và nói rõ điều gì có thể làm giả thuyết được chọn trở nên sai.
 
@@ -250,11 +250,11 @@ Chỉ bắt đầu ghi âm **sau khi** người được phỏng vấn đồng �
 
 ### 3.3. Big 3 — ba điều quan trọng nhất cần học
 
-| #   | Điều cần học | Evidence cần tìm | Điều gì khiến nhóm xem lại giả thuyết? |
-| --- | --- | --- | --- |
-| 1   | 🔥 **(câu hỏi đáng sợ)** Learner có thực sự mắc lại lâu và có thấy đó là chuyện đáng giải không? | Một sự kiện cụ thể trong 7 ngày: học bài nào, đoạn nào, mất bao lâu, cảm giác lúc đó, kết quả cuối cùng | Learner nói mắc là chuyện bình thường, tự xử trong vài phút, không nhớ nổi lần nào → pain không đáng giải |
-| 2   | Khi bị mắc, learner đã thực sự làm gì (workaround), và chi phí thật là bao nhiêu? | Chuỗi hành động cụ thể: tua lại mấy lần, search gì, copy vào AI Chat, hỏi ai, mất bao nhiêu thời gian, có bỏ qua không | Không có workaround nào (kẹt thì bỏ luôn, không ảnh hưởng gì) hoặc workaround rất rẻ → consequence không tồn tại |
-| 3   | Điều gì khiến learner **không** chủ động nhờ người hỗ trợ — và họ thấy thế nào khi có ai đó chủ động hỏi trước? | Lần gần nhất learner hỏi mentor/TA/bạn học; hoặc lần định hỏi nhưng không; lần được ai đó phát hiện và nhắn trước | Learner hỏi rất dễ dàng và được trả lời nhanh → barrier "không ai biết" không tồn tại; hoặc learner phản đối mạnh việc bị phát hiện |
+| #   | Điều cần học                                                                                                    | Evidence cần tìm                                                                                                       | Điều gì khiến nhóm xem lại giả thuyết?                                                                                              |
+| --- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 🔥 **(câu hỏi đáng sợ)** Learner có thực sự mắc lại lâu và có thấy đó là chuyện đáng giải không?                 | Một sự kiện cụ thể trong 7 ngày: học bài nào, đoạn nào, mất bao lâu, cảm giác lúc đó, kết quả cuối cùng                | Learner nói mắc là chuyện bình thường, tự xử trong vài phút, không nhớ nổi lần nào → pain không đáng giải                           |
+| 2   | Khi bị mắc, learner đã thực sự làm gì (workaround), và chi phí thật là bao nhiêu?                               | Chuỗi hành động cụ thể: tua lại mấy lần, search gì, copy vào AI Chat, hỏi ai, mất bao nhiêu thời gian, có bỏ qua không | Không có workaround nào (kẹt thì bỏ luôn, không ảnh hưởng gì) hoặc workaround rất rẻ → consequence không tồn tại                    |
+| 3   | Điều gì khiến learner **không** chủ động nhờ người hỗ trợ — và họ thấy thế nào khi có ai đó chủ động hỏi trước? | Lần gần nhất learner hỏi mentor/TA/bạn học; hoặc lần định hỏi nhưng không; lần được ai đó phát hiện và nhắn trước      | Learner hỏi rất dễ dàng và được trả lời nhanh → barrier "không ai biết" không tồn tại; hoặc learner phản đối mạnh việc bị phát hiện |
 
 _Ít nhất một điều phải là câu hỏi "đáng sợ" — câu trả lời có thể làm nhóm thay đổi hướng._
 
@@ -264,10 +264,10 @@ _Ít nhất một điều phải là câu hỏi "đáng sợ" — câu trả l�
 
 ### 3.5. Big 3 Questions
 
-| #   | Điều cần học | Câu hỏi sẽ dùng |
-| --- | --- | --- |
-| 1   | Learner có thực sự mắc lại lâu và thấy đáng giải | "Kể mình nghe về lần gần nhất bạn học một bài mà có chỗ không hiểu — hôm đó là hôm nào? Bạn đang học bài gì, và chuyện diễn ra thế nào từ lúc mở bài tới lúc bạn dừng lại?" |
-| 2   | Workaround và chi phí thật | "Lúc nhận ra mình không hiểu chỗ đó, bạn đã làm gì tiếp theo? Cụ thể: bạn mở cái gì, tua lại chỗ nào, gõ gì để tìm, hỏi ai? Việc đó mất bao lâu? Cuối cùng bạn có hiểu được chỗ đó không, hay để lại?" |
+| #   | Điều cần học                                                    | Câu hỏi sẽ dùng                                                                                                                                                                                                                                                                                                               |
+| --- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Learner có thực sự mắc lại lâu và thấy đáng giải                | "Kể mình nghe về lần gần nhất bạn học một bài mà có chỗ không hiểu — hôm đó là hôm nào? Bạn đang học bài gì, và chuyện diễn ra thế nào từ lúc mở bài tới lúc bạn dừng lại?"                                                                                                                                                   |
+| 2   | Workaround và chi phí thật                                      | "Lúc nhận ra mình không hiểu chỗ đó, bạn đã làm gì tiếp theo? Cụ thể: bạn mở cái gì, tua lại chỗ nào, gõ gì để tìm, hỏi ai? Việc đó mất bao lâu? Cuối cùng bạn có hiểu được chỗ đó không, hay để lại?"                                                                                                                        |
 | 3   | Điều gì chặn việc lên tiếng, và phản ứng khi bị phát hiện trước | "Lần gần nhất bạn chủ động nhờ ai đó (mentor, TA, bạn học) về một chỗ không hiểu là khi nào? Bạn hỏi ai, qua đâu, và sau đó chuyện gì xảy ra?" → rồi: "Có lần nào bạn định hỏi nhưng lại thôi không? Lúc đó vì sao?" → rồi: "Đã bao giờ có ai chủ động nhắn trước và hỏi bạn đang mắc chỗ nào chưa? Lúc đó bạn thấy thế nào?" |
 
 ### 3.6. Probe bank — chỉ dùng khi cần đào sâu câu chuyện
@@ -306,11 +306,11 @@ _Ít nhất một điều phải là câu hỏi "đáng sợ" — câu trả l�
 
 _Điền ở Chặng 4, sau khi cả nhóm đã nghe lại bản ghi. Nếu bảng này không thay đổi gì thì guide chưa thực sự được sửa — dấu hiệu chưa đạt gate 4._
 
-| #   | Sửa gì                             | Vì sao (tín hiệu từ lượt luyện)    |
-| --- | ---------------------------------- | ---------------------------------- |
-| 1   | `................................` | `................................` |
-| 2   | `................................` | `................................` |
-| 3   | `................................` | `................................` |
+| #   | Sửa gì                                                                                                                                                                            | Vì sao (tín hiệu từ lượt luyện)                                                                                                                                              |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Story Opener phải hỏi kèm vị trí cụ thể ngay trong câu mở: "lần gần nhất bạn học bài nào, đang ở slide/đoạn nào?" thay vì chỉ neo vào "lần gần nhất" rồi mới hỏi vị trí ở câu sau | Lượt luyện của `Phan Duy Thành` → `Lê Thanh Tình` chỉ lấy được mốc thời gian ("chiều hôm qua"); user không nêu được tên bài/slide nên Situation chưa đạt mức evidence ở §2.6 |
+| 2   | Sau mỗi tín hiệu khựng lại, bắt buộc hỏi ngay chuỗi hành động và thời lượng ("sau đó bạn làm gì?", "mất bao lâu?", "cuối cùng có hiểu không hay để lại?") trước khi chuyển câu    | Lượt luyện ghi nhận chỗ khựng ("thuật ngữ tiếng anh", "không biết trang slide để tìm luôn") nhưng không đào tiếp nên không có workaround, thời lượng và hậu quả              |
+| 3   | Đưa nhóm câu phân biệt Pain A vs Pain B ("lần gần nhất bạn định hỏi ai nhưng lại thôi") thành câu bắt buộc, không cắt khi gần hết 15 phút                                         | Lượt luyện không ghi nhận được dữ liệu nào cho Pain B, nên không phân biệt được A với B                                                                                      |
 
 ### 3.9. Tự rà soát guide trước khi phỏng vấn
 
@@ -324,12 +324,12 @@ _Điền ở Chặng 4, sau khi cả nhóm đã nghe lại bản ghi. Nếu bả
 
 ### 3.10. Phân công phỏng vấn
 
-| Thành viên | Phỏng vấn ai (learner ngoài nhóm) | Thời gian | Đã xin phép ghi âm |
-| --- | --- | --- | --- |
-| `Bùi Hải Nam` (2A202602636) | `....................` | 15 phút | `..........` |
-| `Chử Trần Phương Nam` (2A202602675) | `....................` | 15 phút | `..........` |
-| `Phùng Gia Khánh` (2A202602585) | `....................` | 15 phút | `..........` |
-| `Phan Duy Thành` (2A202602930) | `....................` | 15 phút | `..........` |
+| Thành viên                          | Phỏng vấn ai (learner ngoài nhóm) | Thời gian | Đã xin phép ghi âm |
+| ----------------------------------- | --------------------------------- | --------- | ------------------ |
+| `Bùi Hải Nam` (2A202602636)         | `Vũ Quang Tiến` (2A202602872)     | 15p       | có                 |
+| `Chử Trần Phương Nam` (2A202602675) | `Chu Thuỳ Dương` (2A202602660)    | ~5–7 phút | `Có`               |
+| `Phùng Gia Khánh` (2A202602585)     | `Lê Anh Duy` (2A202602723)        | 15p       | có                 |
+| `Phan Duy Thành` (2A202602930)      | `Lê Thanh Tình`                   | 15 phút   | `Có`               |
 
 > Mỗi người tự ghi lại **đúng lượt mình làm interviewer** vào `interview/notes.md`.
 
@@ -344,19 +344,26 @@ _Mỗi thành viên tự hoàn thành phần này sau khi nghe lại bản ghi c
 **1. Câu hỏi nào đã giúp user kể một tình huống cụ thể?**
 
 ```text
-..........................................................................................
+Story Opener neo vào "lần gần nhất" đã mở được chuyện: user nêu được mốc thời gian ("chiều hôm qua").
+Câu hỏi về điều gì khiến bị khựng lại lấy được loại tín hiệu cụ thể ("gặp những thuật ngữ tiếng anh"),
+và câu hỏi về cảm xúc đầu tiên lấy được trạng thái lúc đó ("buồn", "lo lắng").
 ```
 
 **2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
 
 ```text
-..........................................................................................
+Chưa đào tiếp sau tín hiệu khựng lại: khi user nói "không biết trang slide để tìm luôn" và gặp thuật
+ngữ tiếng Anh, mình không hỏi ngay "sau đó bạn làm gì?" nên mất phần workaround, thời lượng mắc kẹt
+và hậu quả — đây là chỗ quyết định evidence cho Big 3 #2. Câu hỏi về vị trí (bài/slide nào) vẫn còn
+quá chung, user trả lời được nhưng không neo vào nội dung cụ thể.
 ```
 
 **3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
 
 ```text
-..........................................................................................
+Ba sửa đổi ghi ở §3.8: (1) gộp câu hỏi vị trí cụ thể vào ngay Story Opener để Situation có chi tiết;
+(2) bắt buộc hỏi chuỗi hành động + thời lượng ngay sau mỗi tín hiệu khựng lại để lấy workaround và
+hậu quả; (3) đưa câu phân biệt Pain A vs Pain B thành câu bắt buộc vì lượt luyện không chạm tới.
 ```
 
 ---
@@ -365,11 +372,11 @@ _Mỗi thành viên tự hoàn thành phần này sau khi nghe lại bản ghi c
 
 _Mọi cách dùng AI phải được khai báo. AI **không** được dùng để tạo interview data, bịa quote, suy diễn chi tiết user chưa nói hoặc viết reflection thay cho việc tự nghe lại cuộc phỏng vấn._
 
-| #   | Dùng AI ở đâu (chặng / bước) | AI đã giúp gì                      | Điểm sai hoặc hời hợt của AI       | Mình đã tự sửa thế nào             |
-| --- | ---------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
+| #   | Dùng AI ở đâu (chặng / bước)                                            | AI đã giúp gì                                                                                                                                                      | Điểm sai hoặc hời hợt của AI                                                                                                                                      | Mình đã tự sửa thế nào                                                                                                                                                              |
+| --- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Chặng 1 — dựng chuỗi Solution → Change → Actor → Situation & Job → Pain | AI (Copilot) gợi ý cấu trúc chuỗi suy luận, giúp tách capability trung tính khỏi tên feature và nhắc thêm một giả thuyết cạnh tranh (chi phí xã hội khi lên tiếng) | AI viết pain nghe rất hợp lý nhưng có xu hướng trôi về phía "thiếu công cụ phát hiện" — tức solution đội lốt problem; AI cũng trình bày như thể đã chắc chắn đúng | Nhóm viết lại pain theo dạng barrier + consequence, tách rõ phần nào là hypothesis; giữ luôn cả Pain B để buộc phải phân biệt bằng evidence; coi toàn bộ §2 là draft phải tự review |
-| 2   | Chặng 2 — soạn Conversation Guide | AI gợi ý cách diễn đạt câu hỏi theo dạng "lần gần nhất…", giúp biến Big 3 thành câu hỏi bám hành vi quá khứ và soát lại các câu dễ dẫn dắt | AI đưa ra vài câu hỏi vẫn còn mời user đánh giá solution (kiểu "nếu giảng viên biết thì bạn thấy sao") và vài câu hỏi "thường thì…" | Nhóm đưa các câu đó vào danh sách "Câu hỏi KHÔNG được dùng"; thay bằng câu neo vào sự kiện đã xảy ra |
-| 3   | Chặng 2 và chuẩn bị nộp bài — rà soát guide, dựng checklist | AI đối chiếu README với 4 gate, chỉ ra phần còn thiếu và gợi ý checklist tự rà soát guide (§3.9) | AI viết ra checklist nghe rất đầy đủ nhưng dễ khiến nhóm tick cho xong mà không thật sự soi lại từng câu hỏi; AI cũng sẵn sàng viết luôn phần reflection | Nhóm tự đọc lại guide theo từng mục §3.9; §4 Practice Reflection để từng người tự viết sau khi nghe lại bản ghi của mình, không dùng AI |
+| 2   | Chặng 2 — soạn Conversation Guide                                       | AI gợi ý cách diễn đạt câu hỏi theo dạng "lần gần nhất…", giúp biến Big 3 thành câu hỏi bám hành vi quá khứ và soát lại các câu dễ dẫn dắt                         | AI đưa ra vài câu hỏi vẫn còn mời user đánh giá solution (kiểu "nếu giảng viên biết thì bạn thấy sao") và vài câu hỏi "thường thì…"                               | Nhóm đưa các câu đó vào danh sách "Câu hỏi KHÔNG được dùng"; thay bằng câu neo vào sự kiện đã xảy ra                                                                                |
+| 3   | Chặng 2 và chuẩn bị nộp bài — rà soát guide, dựng checklist             | AI đối chiếu README với 4 gate, chỉ ra phần còn thiếu và gợi ý checklist tự rà soát guide (§3.9)                                                                   | AI viết ra checklist nghe rất đầy đủ nhưng dễ khiến nhóm tick cho xong mà không thật sự soi lại từng câu hỏi; AI cũng sẵn sàng viết luôn phần reflection          | Nhóm tự đọc lại guide theo từng mục §3.9; §4 Practice Reflection để từng người tự viết sau khi nghe lại bản ghi của mình, không dùng AI                                             |
 
 **Kết luận về mức độ tin cậy của phần có AI hỗ trợ:**
 

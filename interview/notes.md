@@ -5,15 +5,15 @@ _Case C — AI Support Radar · Problem interview, không phải concept intervi
 | Mục | Nội dung |
 | --- | --- |
 | Interviewer | `Phan Duy Thành` — `2A202602930` |
-| Mã người tham gia | 2A202602449 |
-| Đúng tiêu chí tuyển | Có / Không |
-| Ngày, giờ phỏng vấn | `....................` |
+| Mã người tham gia | `Lê Thanh Tình` — `2A202602449` |
+| Đúng tiêu chí tuyển | Có |
+| Ngày, giờ phỏng vấn | `9:00 AM 10/03/2026` |
 | Thời lượng | 15 phút |
-| Người tham gia đã đồng ý ghi âm | Có / Không |
+| Người tham gia đã đồng ý ghi âm | Có |
 
 > Nếu **Không** đồng ý ghi âm: dừng ghi, ghi chú lại lý do, và báo giảng viên. Không lưu bản ghi.
 
-`interview/recording-link.md` hoặc file `recording.*` tương ứng: `....................`
+`interview/recording-link.md` hoặc file `recording.*` tương ứng: `record.m4a` (file text chứa link Drive của lượt này)
 
 ---
 
